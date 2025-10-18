@@ -14,3 +14,4 @@ Cum se construiește și rulează imaginea Docker:
 docker build -t qa-final-project-java .
 docker run --rm qa-final-project-java
 
+[![CI Pipeline for QA Project](https://github.com/topolnicianupetronela-sys/qa-final-project-java/actions/workflows/ci.yml/badge.svg)](https://github.com/topolnicianupetronela-sys/qa-final-project-java/actions/workflows/ci.yml)
